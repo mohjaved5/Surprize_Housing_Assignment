@@ -33,10 +33,10 @@
 
 
 ## Technologies Used
-- numpy -  1.0
-- seaborn - 2.0
-- matplotlib - 3.0
-- scikitlearn - 4.0
+- numpy -  1.26
+- seaborn - 0.13.0
+- matplotlib - 3.8.2
+- scikit-learn - 1.3.2
 
 
 
